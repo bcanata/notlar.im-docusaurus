@@ -5,7 +5,7 @@ description: Notlar.im blog yazarları hakkında.
 
 import Link from "@docusaurus/Link";
 
-Dil: <Link to="/about">🇹🇷 Türkçe</Link> / <Link to="/about/en">🇬🇧 English</Link>
+Dil: <Link to="/hakkimda">🇹🇷 Türkçe</Link> / <Link to="/hakkimda">🇬🇧 English</Link>
 
 <p><strong>Merhaba!</strong> Bu blogu iki kişi oluşturuyor çeşitli konulardaki notlarımızı bu bloga aktarıyoruz.</p>
 
